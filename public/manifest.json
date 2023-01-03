@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Entertainment Dive",
+  "version": "1.0",
+
+  "action": {
+    "default_popup": "index.html"
+  },
+
+  "permissions": [
+    "storage",
+    "tabs"
+  ]
+}
